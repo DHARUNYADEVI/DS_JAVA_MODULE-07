@@ -104,4 +104,4 @@ public class FlattenNestedList {
 
 
 ## Result:
-The NestedIterator class successfully flattens a nested list of integers into a single list and provides sequential access using standard iterator methods.
+The NestedIterator class successfully flattens a nested list of integers into a single list and provides sequential access using standard iterator methods
